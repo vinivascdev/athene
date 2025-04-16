@@ -21,12 +21,12 @@ Estamos no início da nossa jornada! Em breve, este espaço será preenchido com
 
 ## 👥 Integrantes
 
-- Tainara Nascimento  
-- Lucas Mineiro  
-- Eduarda Castro  
-- Isabele Meireles  
-- Vinícius Vasconcelos  
-- Vitória Diniz
+- Tainara Nascimento | Programadora & Avaliadora
+- Lucas Mineiro | Programador
+- Eduarda Castro | Design UI & Ilustradora  
+- Isabele Meireles | Documentadora & Design UI 
+- Vinícius Vasconcelos | Programador
+- Vitória Diniz | Líder & Programadora
 
 ---
 
