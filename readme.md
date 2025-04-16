@@ -24,7 +24,7 @@ Estamos no início da nossa jornada! Em breve, este espaço será preenchido com
 - Tainara Nascimento  
 - Lucas Mineiro  
 - Eduarda Castro  
-- Isabele Medeiros  
+- Isabele Meireles  
 - Vinícius Vasconcelos  
 - Vitória Diniz
 
